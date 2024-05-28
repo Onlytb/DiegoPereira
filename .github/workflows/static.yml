@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <!-- 
+Tutorial: https://www.youtube.com/watch?v=zxxB9SFh9p4
 -->
 <html lang="en">
 
@@ -46,7 +47,7 @@
     function sim() {
         alert("Você aceitou namorar comigo! :)");
         // redireciona para um URL após clicar no SIM
-        location.href = "https://music.youtube.com/watch?v=izGwDsrQ1eQ";
+        location.href ="https://youtu.be/pqZNLncyxyQ?si=UFTLDuB0vo4bEF_v"
     }
 
     function desvia(btn) {
@@ -62,5 +63,3 @@
     }
 
 </script>
-
-</html>
